@@ -1,16 +1,36 @@
-### Hi there 👋
+<p align="center">
+─────────────────────────────────────
+</p>
 
-<!--
-**TheLittleOffi/TheLittleOffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi Everyone Welcome to me github ^^
 
-Here are some ideas to get you started:
+### Personal affair :
+- 🤞 Right now I'm either Discord or learning new languages!
+- ✨You can ask me for help if you want if I can give you help for free of course and if I will arrive :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="right" alt"JPG" src="https://github.com/Unknown-user-dev/Unknown-user-dev/blob/main/kannacute.jpg" width"500" height"320" />
+─────────────────────────────────────
+</p>
+
+### Connect with me:
+
+- 🧥 You can contact me to me discord : Little#9249
+<p align="center">
+─────────────────────────────────────
+</p>
+
+### The languages I learn :
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+
+<p align="center">
+─────────────────────────────────────
+</p>
+
+<img align="left" alt="Unknown-user-dev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username==TheLittleOffi&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Unknown-user-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLittleOffi&show_icons=true&hide_border=true&theme=radical" />
+
+[github]: https://www.github.com/TheLittleOffi
