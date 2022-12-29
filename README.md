@@ -2,20 +2,20 @@
 ─────────────────────────────────────
 </p>
 
-Hi Everyone Welcome to me github ^^
+Hi everyone and welcome to my github :)
 
 ### Personal affair :
-- ☕ Right now I'm either Discord or learning new languages!
-- 🍁You can ask me for help if you want if I can give you help for free of course and if I will arrive :D
+- ☕ Right now I'm on Discord bot developpement or learning new languages !
+- 🍁 Beginer so please don't mind giving me tips or giving me advices to help me !
 
 <p align="center">
   <img align="right" alt"JPG" src="https://cdn.discordapp.com/attachments/1039917113026035734/1058150675973931028/HD-wallpaper-anime-girl-original-anime-train-train-station.jpg" width"300" height"168" />
 ─────────────────────────────────────
 </p>
 
-### Connect with me:
+### My contact:
 
-- 🥔 You can contact me to me discord : Little#9249
+- 🥔 On my Discord : Little#9249
 <p align="center">
 ─────────────────────────────────────
 </p>
@@ -24,7 +24,6 @@ Hi Everyone Welcome to me github ^^
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 
 <p align="center">
 ─────────────────────────────────────
