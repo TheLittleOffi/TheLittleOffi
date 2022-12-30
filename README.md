@@ -10,7 +10,7 @@ Hi everyone and welcome to my github :)
 
 <p align="center">
   <img align="right" alt"JPG" src="https://cdn.discordapp.com/attachments/1039917113026035734/1058150675973931028/HD-wallpaper-anime-girl-original-anime-train-train-station.jpg" width"300" height"168" />
-─────────────────────────────────────
+──────────────────────────────────────────────────────────
 </p>
 
 ### My contact:
